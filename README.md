@@ -18,8 +18,9 @@ After this is done you can run the python file.
 ```
 cd Downloads
 ```
-Let's say the python file is in your downloads so you have to type that, but if it was a custom path you would copy it like this
+Let's say the python file is in your downloads so you have to type that, but if it was a custom folder or path you would copy it like this
 ![image](https://github.com/Vyvernl/Darklight/assets/157186731/bee3fa16-89fc-4626-bd82-6d07849b2932)
+
 and type it in like this:
 ```
 cd C:\Users\vynve\OneDrive\Desktop\dog
