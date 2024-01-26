@@ -21,7 +21,7 @@ Client = commands.Bot(command_prefix='$', intents=intents)
 
 Settings = {
     'Activity': 'Enter your custom activity here',
-    'Token': 'MTA4MDUwMDE2NDA4ODgyNzk3NA.GaqH-0.Erm02Kp_Q3K8BCCHcluXruoSTlLYQjJr1mJKss',
+    'Token': 'Enter Token',
     'NewServerIcon': 'icon.jpeg',
     'DiscordInvite': None,
     'WebhookName': 'Balls'
