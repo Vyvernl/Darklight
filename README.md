@@ -9,6 +9,15 @@
 ## Skidding
 This is an open source project, So I can't do anything to prevent skidding, I'm just going to say skidding won't help you in coding and will just make you worse if you're all based on copying other people's code, take this as an opportunity on learning how to create a bot or your own nuker, you may use this as reference for your future discord bots.
 
+## Major Update
+- All code will get a revamp after march
+### May Include
+- Only a bat file
+- Nicer Looks
+- More Efficient
+- Better
+- Easier to navigate
+
 ##How to run
 - You must have [python](https://python.org) installed and must check the add to path option in the setup executable, once done open up your terminal, before running the code you must install it's dependencies by running this.
 ```
