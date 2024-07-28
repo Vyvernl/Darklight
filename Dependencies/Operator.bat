@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-title Vyvern - File Generator
+title Darklight
 set "packages=colorama pystyle discord"
 
 pip install %packages%
